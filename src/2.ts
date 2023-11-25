@@ -14,6 +14,7 @@
 
 */
 
+
 class Employee {
   // Заповніть модифікатори доступу
   public name: string;

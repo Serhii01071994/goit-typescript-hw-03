@@ -16,7 +16,6 @@ class Person {
   constructor(key: Key) {
     this.key = key;
   }
-
   get getKey(): Key {
     return this.key;
   }

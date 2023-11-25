@@ -4,6 +4,7 @@
   напишіть скорочену ініціалізацію.
 */
 
+
 class Student {
   constructor(public name: string, public age: number, public grade: string) {}
 }
